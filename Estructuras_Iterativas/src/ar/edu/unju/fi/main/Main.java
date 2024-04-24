@@ -9,7 +9,7 @@ import ar.edu.unju.fi.model.Registro_Nota;
 
 public class Main {
 	public static void main(String[] args) {
-		
+		//feature test
 		 Alumno alumno = crearAlumno();
 		 registrarNotas(alumno,2);		
 		 
